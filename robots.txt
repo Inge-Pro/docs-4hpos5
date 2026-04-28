@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-eau85d.keitaro-tech-rtb.online/sitemap.xml
